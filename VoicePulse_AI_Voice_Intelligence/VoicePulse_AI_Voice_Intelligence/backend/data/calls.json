@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CALL-202601",
+    "customer_name": "Aisha Khan",
+    "agent_name": "Nora",
+    "duration_sec": 834,
+    "transcript": "Hi, I was charged twice for the same order and the invoice also shows the wrong amount. I am frustrated because my card was charged twice. Please review the payment and issue a refund. Thanks.",
+    "created_at": "2026-10-06T05:13:24.286156+00:00",
+    "csat": 2.7
+  },
+  {
+    "id": "CALL-202602",
+    "customer_name": "Daniel Reed",
+    "agent_name": "Ethan",
+    "duration_sec": 939,
+    "transcript": "My package is five days late and tracking has not moved. I need this resolved today because it is for a customer event tomorrow. Can you escalate this to the delivery team and call me back?",
+    "created_at": "2026-10-06T02:13:24.286156+00:00",
+    "csat": 3.1
+  },
+  {
+    "id": "CALL-202603",
+    "customer_name": "Maya Patel",
+    "agent_name": "Amelia",
+    "duration_sec": 408,
+    "transcript": "I cannot log in to my account after changing my password. I have tried the verification step three times and now the account is locked. Please help me regain access as soon as possible.",
+    "created_at": "2026-10-05T23:13:24.286156+00:00",
+    "csat": 2.8
+  },
+  {
+    "id": "CALL-202604",
+    "customer_name": "Owen Carter",
+    "agent_name": "Rayan",
+    "duration_sec": 284,
+    "transcript": "The integration stopped working after the update. We get an API error every time the system tries to sync. Engineering needs to investigate the bug, but the rest of the service is working.",
+    "created_at": "2026-10-05T20:13:24.286156+00:00",
+    "csat": 4.2
+  },
+  {
+    "id": "CALL-202605",
+    "customer_name": "Sofia Malik",
+    "agent_name": "Nora",
+    "duration_sec": 738,
+    "transcript": "I really like the product and your support team was excellent. Everything was resolved quickly and I wanted to say thank you.",
+    "created_at": "2026-10-05T17:13:24.286156+00:00",
+    "csat": 2.6
+  },
+  {
+    "id": "CALL-202606",
+    "customer_name": "Liam Brooks",
+    "agent_name": "Ethan",
+    "duration_sec": 612,
+    "transcript": "I would like to cancel my subscription. I no longer need the premium plan. Please confirm when the cancellation is complete.",
+    "created_at": "2026-10-05T14:13:24.286156+00:00",
+    "csat": 2.5
+  },
+  {
+    "id": "CALL-202607",
+    "customer_name": "Noah Williams",
+    "agent_name": "Amelia",
+    "duration_sec": 275,
+    "transcript": "Can you explain whether the new device supports USB-C charging and whether the advanced reporting feature is included in the standard plan?",
+    "created_at": "2026-10-05T11:13:24.286156+00:00",
+    "csat": 3.0
+  },
+  {
+    "id": "CALL-202608",
+    "customer_name": "Emma Chen",
+    "agent_name": "Rayan",
+    "duration_sec": 697,
+    "transcript": "I requested a refund last week and still do not see the money back. Please check the refund status and follow up with me today.",
+    "created_at": "2026-10-05T08:13:24.286156+00:00",
+    "csat": 4.0
+  },
+  {
+    "id": "CALL-202609",
+    "customer_name": "Aisha Khan",
+    "agent_name": "Nora",
+    "duration_sec": 754,
+    "transcript": "The courier marked the order delivered but it is missing. This is urgent because I need the package before tonight. Please escalate it immediately.",
+    "created_at": "2026-10-05T05:13:24.286156+00:00",
+    "csat": 2.9
+  },
+  {
+    "id": "CALL-202610",
+    "customer_name": "Daniel Reed",
+    "agent_name": "Ethan",
+    "duration_sec": 845,
+    "transcript": "The invoice looks correct now and I can confirm the duplicate charge has been resolved. Thank you for fixing it.",
+    "created_at": "2026-10-05T02:13:24.286156+00:00",
+    "csat": 4.2
+  },
+  {
+    "id": "CALL-202611",
+    "customer_name": "Maya Patel",
+    "agent_name": "Amelia",
+    "duration_sec": 609,
+    "transcript": "Our team cannot access the dashboard and the login system seems broken. We have a deployment deadline, so this is critical. Please have someone call me now.",
+    "created_at": "2026-10-04T23:13:24.286156+00:00",
+    "csat": 3.0
+  },
+  {
+    "id": "CALL-202612",
+    "customer_name": "Owen Carter",
+    "agent_name": "Rayan",
+    "duration_sec": 783,
+    "transcript": "Everything has been great so far. The product works exactly as expected and the onboarding was very helpful.",
+    "created_at": "2026-10-04T20:13:24.286156+00:00",
+    "csat": 3.1
+  }
+]

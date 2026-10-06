@@ -1,0 +1,6 @@
+# Optional open-source deep-learning layer.
+# Install after the core requirements.
+faster-whisper==1.2.0
+transformers>=4.55,<5
+torch>=2.7,<3
+sentence-transformers>=5,<6
